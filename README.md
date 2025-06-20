@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Al Amin Islam</h1>
-<h3 align="center">I am a Data Analysis</h3>
+<h3 align="center">I am a Python Developer</h3>
 
 - 🌱 I’m currently learning **Data Science**
 
